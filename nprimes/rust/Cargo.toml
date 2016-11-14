@@ -1,0 +1,6 @@
+[package]
+name = "nprimes"
+version = "0.1.0"
+authors = ["Pavel Filonov <pavel.filonov@kaspersky.com>"]
+
+[dependencies]
